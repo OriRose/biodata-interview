@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    gibberish (2.1.1)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  gibberish (~> 2.1)
+
+BUNDLED WITH
+   2.3.7
